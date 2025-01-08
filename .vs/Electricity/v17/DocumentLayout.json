@@ -1,0 +1,307 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Years 3\\Program C# IV\\Electricity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC38131-D98E-4E5D-A436-1E01241CF726}|Electricity.csproj|d:\\years 3\\program c# iv\\electricity\\forms\\formconnectionfee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC38131-D98E-4E5D-A436-1E01241CF726}|Electricity.csproj|solutionrelative:forms\\formconnectionfee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC38131-D98E-4E5D-A436-1E01241CF726}|Electricity.csproj|d:\\years 3\\program c# iv\\electricity\\forms\\formconnectionfee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DFC38131-D98E-4E5D-A436-1E01241CF726}|Electricity.csproj|solutionrelative:forms\\formconnectionfee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC38131-D98E-4E5D-A436-1E01241CF726}|Electricity.csproj|D:\\Years 3\\Program C# IV\\Electricity\\forms\\formmanagecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC38131-D98E-4E5D-A436-1E01241CF726}|Electricity.csproj|solutionrelative:forms\\formmanagecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC38131-D98E-4E5D-A436-1E01241CF726}|Electricity.csproj|D:\\Years 3\\Program C# IV\\Electricity\\forms\\formmanagecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DFC38131-D98E-4E5D-A436-1E01241CF726}|Electricity.csproj|solutionrelative:forms\\formmanagecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC38131-D98E-4E5D-A436-1E01241CF726}|Electricity.csproj|D:\\Years 3\\Program C# IV\\Electricity\\forms\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC38131-D98E-4E5D-A436-1E01241CF726}|Electricity.csproj|solutionrelative:forms\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC38131-D98E-4E5D-A436-1E01241CF726}|Electricity.csproj|D:\\Years 3\\Program C# IV\\Electricity\\forms\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DFC38131-D98E-4E5D-A436-1E01241CF726}|Electricity.csproj|solutionrelative:forms\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC38131-D98E-4E5D-A436-1E01241CF726}|Electricity.csproj|D:\\Years 3\\Program C# IV\\Electricity\\forms\\formdeletepayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DFC38131-D98E-4E5D-A436-1E01241CF726}|Electricity.csproj|solutionrelative:forms\\formdeletepayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC38131-D98E-4E5D-A436-1E01241CF726}|Electricity.csproj|D:\\Years 3\\Program C# IV\\Electricity\\forms\\formmnangecustomeraddupdatedeleteprintinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DFC38131-D98E-4E5D-A436-1E01241CF726}|Electricity.csproj|solutionrelative:forms\\formmnangecustomeraddupdatedeleteprintinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC38131-D98E-4E5D-A436-1E01241CF726}|Electricity.csproj|D:\\Years 3\\Program C# IV\\Electricity\\forms\\formreceivepayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DFC38131-D98E-4E5D-A436-1E01241CF726}|Electricity.csproj|solutionrelative:forms\\formreceivepayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC38131-D98E-4E5D-A436-1E01241CF726}|Electricity.csproj|D:\\Years 3\\Program C# IV\\Electricity\\forms\\formregistercustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DFC38131-D98E-4E5D-A436-1E01241CF726}|Electricity.csproj|solutionrelative:forms\\formregistercustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC38131-D98E-4E5D-A436-1E01241CF726}|Electricity.csproj|D:\\Years 3\\Program C# IV\\Electricity\\forms\\formregistercustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC38131-D98E-4E5D-A436-1E01241CF726}|Electricity.csproj|solutionrelative:forms\\formregistercustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC38131-D98E-4E5D-A436-1E01241CF726}|Electricity.csproj|D:\\Years 3\\Program C# IV\\Electricity\\forms\\formconsumption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DFC38131-D98E-4E5D-A436-1E01241CF726}|Electricity.csproj|solutionrelative:forms\\formconsumption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC38131-D98E-4E5D-A436-1E01241CF726}|Electricity.csproj|D:\\Years 3\\Program C# IV\\Electricity\\forms\\formconsumption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC38131-D98E-4E5D-A436-1E01241CF726}|Electricity.csproj|solutionrelative:forms\\formconsumption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC38131-D98E-4E5D-A436-1E01241CF726}|Electricity.csproj|D:\\Years 3\\Program C# IV\\Electricity\\forms\\formtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DFC38131-D98E-4E5D-A436-1E01241CF726}|Electricity.csproj|solutionrelative:forms\\formtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC38131-D98E-4E5D-A436-1E01241CF726}|Electricity.csproj|D:\\Years 3\\Program C# IV\\Electricity\\forms\\formtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC38131-D98E-4E5D-A436-1E01241CF726}|Electricity.csproj|solutionrelative:forms\\formtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC38131-D98E-4E5D-A436-1E01241CF726}|Electricity.csproj|D:\\Years 3\\Program C# IV\\Electricity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC38131-D98E-4E5D-A436-1E01241CF726}|Electricity.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC38131-D98E-4E5D-A436-1E01241CF726}|Electricity.csproj|D:\\Years 3\\Program C# IV\\Electricity\\forms\\formreceivepayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC38131-D98E-4E5D-A436-1E01241CF726}|Electricity.csproj|solutionrelative:forms\\formreceivepayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC38131-D98E-4E5D-A436-1E01241CF726}|Electricity.csproj|D:\\Years 3\\Program C# IV\\Electricity\\forms\\formdeletepayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC38131-D98E-4E5D-A436-1E01241CF726}|Electricity.csproj|solutionrelative:forms\\formdeletepayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormConnectionFee.cs",
+              "DocumentMoniker": "D:\\Years 3\\Program C# IV\\Electricity\\Forms\\FormConnectionFee.cs",
+              "RelativeDocumentMoniker": "Forms\\FormConnectionFee.cs",
+              "ToolTip": "D:\\Years 3\\Program C# IV\\Electricity\\Forms\\FormConnectionFee.cs",
+              "RelativeToolTip": "Forms\\FormConnectionFee.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAowB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T13:18:13.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormManageCustomer.cs [Design]",
+              "DocumentMoniker": "D:\\Years 3\\Program C# IV\\Electricity\\Forms\\FormManageCustomer.cs",
+              "RelativeDocumentMoniker": "Forms\\FormManageCustomer.cs",
+              "ToolTip": "D:\\Years 3\\Program C# IV\\Electricity\\Forms\\FormManageCustomer.cs [Design]",
+              "RelativeToolTip": "Forms\\FormManageCustomer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T13:11:55.289Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormManageCustomer.cs",
+              "DocumentMoniker": "D:\\Years 3\\Program C# IV\\Electricity\\Forms\\FormManageCustomer.cs",
+              "RelativeDocumentMoniker": "Forms\\FormManageCustomer.cs",
+              "ToolTip": "D:\\Years 3\\Program C# IV\\Electricity\\Forms\\FormManageCustomer.cs",
+              "RelativeToolTip": "Forms\\FormManageCustomer.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAcwC8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T13:44:30.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormConnectionFee.cs [Design]",
+              "DocumentMoniker": "D:\\Years 3\\Program C# IV\\Electricity\\Forms\\FormConnectionFee.cs",
+              "RelativeDocumentMoniker": "Forms\\FormConnectionFee.cs",
+              "ToolTip": "D:\\Years 3\\Program C# IV\\Electricity\\Forms\\FormConnectionFee.cs [Design]",
+              "RelativeToolTip": "Forms\\FormConnectionFee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T13:09:50.653Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormMain.cs [Design]",
+              "DocumentMoniker": "D:\\Years 3\\Program C# IV\\Electricity\\Forms\\FormMain.cs",
+              "RelativeDocumentMoniker": "Forms\\FormMain.cs",
+              "ToolTip": "D:\\Years 3\\Program C# IV\\Electricity\\Forms\\FormMain.cs [Design]",
+              "RelativeToolTip": "Forms\\FormMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T13:17:38.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "D:\\Years 3\\Program C# IV\\Electricity\\Forms\\FormMain.cs",
+              "RelativeDocumentMoniker": "Forms\\FormMain.cs",
+              "ToolTip": "D:\\Years 3\\Program C# IV\\Electricity\\Forms\\FormMain.cs",
+              "RelativeToolTip": "Forms\\FormMain.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAADgv6QAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T13:37:41.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormDeletePayment.cs [Design]",
+              "DocumentMoniker": "D:\\Years 3\\Program C# IV\\Electricity\\Forms\\FormDeletePayment.cs",
+              "RelativeDocumentMoniker": "Forms\\FormDeletePayment.cs",
+              "ToolTip": "D:\\Years 3\\Program C# IV\\Electricity\\Forms\\FormDeletePayment.cs [Design]",
+              "RelativeToolTip": "Forms\\FormDeletePayment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T14:21:12.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormRegisterCustomer.cs [Design]",
+              "DocumentMoniker": "D:\\Years 3\\Program C# IV\\Electricity\\Forms\\FormRegisterCustomer.cs",
+              "RelativeDocumentMoniker": "Forms\\FormRegisterCustomer.cs",
+              "ToolTip": "D:\\Years 3\\Program C# IV\\Electricity\\Forms\\FormRegisterCustomer.cs [Design]",
+              "RelativeToolTip": "Forms\\FormRegisterCustomer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T12:47:58.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormMnangeCustomerAddUpdateDeleteprintInvoice.cs [Design]",
+              "DocumentMoniker": "D:\\Years 3\\Program C# IV\\Electricity\\Forms\\FormMnangeCustomerAddUpdateDeleteprintInvoice.cs",
+              "RelativeDocumentMoniker": "Forms\\FormMnangeCustomerAddUpdateDeleteprintInvoice.cs",
+              "ToolTip": "D:\\Years 3\\Program C# IV\\Electricity\\Forms\\FormMnangeCustomerAddUpdateDeleteprintInvoice.cs [Design]",
+              "RelativeToolTip": "Forms\\FormMnangeCustomerAddUpdateDeleteprintInvoice.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T12:27:50.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormReceivePayment.cs [Design]",
+              "DocumentMoniker": "D:\\Years 3\\Program C# IV\\Electricity\\Forms\\FormReceivePayment.cs",
+              "RelativeDocumentMoniker": "Forms\\FormReceivePayment.cs",
+              "ToolTip": "D:\\Years 3\\Program C# IV\\Electricity\\Forms\\FormReceivePayment.cs [Design]",
+              "RelativeToolTip": "Forms\\FormReceivePayment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T13:36:22.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormRegisterCustomer.cs",
+              "DocumentMoniker": "D:\\Years 3\\Program C# IV\\Electricity\\Forms\\FormRegisterCustomer.cs",
+              "RelativeDocumentMoniker": "Forms\\FormRegisterCustomer.cs",
+              "ToolTip": "D:\\Years 3\\Program C# IV\\Electricity\\Forms\\FormRegisterCustomer.cs",
+              "RelativeToolTip": "Forms\\FormRegisterCustomer.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAASwD8AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T13:25:44.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormConsumption.cs [Design]",
+              "DocumentMoniker": "D:\\Years 3\\Program C# IV\\Electricity\\Forms\\FormConsumption.cs",
+              "RelativeDocumentMoniker": "Forms\\FormConsumption.cs",
+              "ToolTip": "D:\\Years 3\\Program C# IV\\Electricity\\Forms\\FormConsumption.cs [Design]",
+              "RelativeToolTip": "Forms\\FormConsumption.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T07:51:22.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormConsumption.cs",
+              "DocumentMoniker": "D:\\Years 3\\Program C# IV\\Electricity\\Forms\\FormConsumption.cs",
+              "RelativeDocumentMoniker": "Forms\\FormConsumption.cs",
+              "ToolTip": "D:\\Years 3\\Program C# IV\\Electricity\\Forms\\FormConsumption.cs",
+              "RelativeToolTip": "Forms\\FormConsumption.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAD4vw0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T08:07:29.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormTest.cs [Design]",
+              "DocumentMoniker": "D:\\Years 3\\Program C# IV\\Electricity\\Forms\\FormTest.cs",
+              "RelativeDocumentMoniker": "Forms\\FormTest.cs",
+              "ToolTip": "D:\\Years 3\\Program C# IV\\Electricity\\Forms\\FormTest.cs [Design]",
+              "RelativeToolTip": "Forms\\FormTest.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T01:06:21.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormTest.cs",
+              "DocumentMoniker": "D:\\Years 3\\Program C# IV\\Electricity\\Forms\\FormTest.cs",
+              "RelativeDocumentMoniker": "Forms\\FormTest.cs",
+              "ToolTip": "D:\\Years 3\\Program C# IV\\Electricity\\Forms\\FormTest.cs",
+              "RelativeToolTip": "Forms\\FormTest.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAvwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T13:28:55.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Years 3\\Program C# IV\\Electricity\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Years 3\\Program C# IV\\Electricity\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAnwBMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T13:16:58.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormReceivePayment.cs",
+              "DocumentMoniker": "D:\\Years 3\\Program C# IV\\Electricity\\Forms\\FormReceivePayment.cs",
+              "RelativeDocumentMoniker": "Forms\\FormReceivePayment.cs",
+              "ToolTip": "D:\\Years 3\\Program C# IV\\Electricity\\Forms\\FormReceivePayment.cs",
+              "RelativeToolTip": "Forms\\FormReceivePayment.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAIA9wDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T13:42:31.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormDeletePayment.cs",
+              "DocumentMoniker": "D:\\Years 3\\Program C# IV\\Electricity\\Forms\\FormDeletePayment.cs",
+              "RelativeDocumentMoniker": "Forms\\FormDeletePayment.cs",
+              "ToolTip": "D:\\Years 3\\Program C# IV\\Electricity\\Forms\\FormDeletePayment.cs",
+              "RelativeToolTip": "Forms\\FormDeletePayment.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAD4vw0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T14:21:54.884Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
